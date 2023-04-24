@@ -1,5 +1,9 @@
 # CrudApp
 
+[![Captura-de-pantalla-de-2023-04-24-14-05-20.png](https://i.postimg.cc/cJ4hmqcf/Captura-de-pantalla-de-2023-04-24-14-05-20.png)](https://postimg.cc/ZW26bM2q)
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
 ## Development server
